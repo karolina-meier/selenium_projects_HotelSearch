@@ -1,0 +1,117 @@
+1652791249514	geckodriver	INFO	Listening on 127.0.0.1:61389
+1652791252568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileLqNzGv"
+1652791252975	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileLqNzGv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61390/devtools/browser/b593e5f5-a1e8-4695-8eb8-061fc85505f2
+1652791254969	Marionette	INFO	Listening on port 61416
+Read port: 61416
+1652791255068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652791256205	Marionette	INFO	Stopped listening on port 61416
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 380: TypeError: can't access property "gURLBar", window is null
+1652791515870	geckodriver	INFO	Listening on 127.0.0.1:61566
+1652791518938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile8Jouzo"
+1652791519364	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile8Jouzo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61567/devtools/browser/8aef9008-2808-4dba-96cf-d664d86b5d63
+1652791521338	Marionette	INFO	Listening on port 61593
+Read port: 61593
+1652791521453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652791522524	Marionette	INFO	Stopped listening on port 61593
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 380: TypeError: can't access property "gURLBar", window is null
+1652791652951	geckodriver	INFO	Listening on 127.0.0.1:61695
+1652791656000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileBKdd3X"
+1652791656422	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileBKdd3X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61696/devtools/browser/1116e066-cf8c-458f-a05c-17dec742a808
+1652791658438	Marionette	INFO	Listening on port 61722
+Read port: 61722
+1652791658502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652791659663	Marionette	INFO	Stopped listening on port 61722
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 380: TypeError: can't access property "gURLBar", window is null
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652791882365	geckodriver	INFO	Listening on 127.0.0.1:61869
+1652791885394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileVsW55Y"
+1652791885829	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVsW55Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61870/devtools/browser/d5e0a9e1-d1f6-4d0b-80d2-646c71c50ab4
+1652791887954	Marionette	INFO	Listening on port 61896
+Read port: 61896
+1652791888096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652791889391	Marionette	INFO	Stopped listening on port 61896
+1652792158736	geckodriver	INFO	Listening on 127.0.0.1:62064
+1652792161779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilef7OSBg"
+1652792162176	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilef7OSBg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62065/devtools/browser/4abd21b3-040e-4e60-981e-e47e6a4c8d8d
+1652792164117	Marionette	INFO	Listening on port 62091
+Read port: 62091
+1652792164151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652792165327	Marionette	INFO	Stopped listening on port 62091
+JavaScript error: resource:///modules/UrlbarProviderSearchTips.jsm, line 380: TypeError: can't access property "gURLBar", window is null
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652792426520	geckodriver	INFO	Listening on 127.0.0.1:62247
+1652792429573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "62248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilenY1AOP"
+1652792429998	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilenY1AOP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62248/devtools/browser/11acdbce-14af-44a2-a431-147f09b86ee6
+1652792432162	Marionette	INFO	Listening on port 62275
+Read port: 62275
+1652792432215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652792433451	Marionette	INFO	Stopped listening on port 62275
+1652797494797	geckodriver	INFO	Listening on 127.0.0.1:64693
+1652797497849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofiletOkCDP"
+1652797498267	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofiletOkCDP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64694/devtools/browser/a712ad33-4341-4acd-aa02-eb5b9635a276
+1652797500291	Marionette	INFO	Listening on port 64720
+Read port: 64720
+1652797500361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652797503260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652797504241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652797505765	Marionette	INFO	Stopped listening on port 64720
+1652797991388	geckodriver	INFO	Listening on 127.0.0.1:65017
+1652797994444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileO9rW1G"
+1652797994862	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileO9rW1G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65018/devtools/browser/a30933a3-603c-4133-8e7c-144bae9a1bfc
+1652797996858	Marionette	INFO	Listening on port 65044
+Read port: 65044
+1652797996954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652797999549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652798000561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652798002172	Marionette	INFO	Stopped listening on port 65044
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
