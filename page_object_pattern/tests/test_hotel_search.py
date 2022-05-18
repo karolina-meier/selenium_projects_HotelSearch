@@ -4,7 +4,7 @@ from page_object_pattern.pages.search_results import SearchResultsPage
 import pytest
 from selenium.webdriver.firefox.service import Service
 from webdriver_manager.firefox import GeckoDriverManager
-
+import allure
 
 class TestHotelSearch:
 
@@ -16,6 +16,8 @@ class TestHotelSearch:
         yield
         self.driver.quit()
 
+    @allure.title("Hotel search - test")
+    @allure.description("Automation testing using Selenium with page object pattern")
     def test_hotel_search(self, setup):
         self.driver.get("http://www.kurs-selenium.pl/demo/")
         search_hotel_page = SearchHotelPage(self.driver)

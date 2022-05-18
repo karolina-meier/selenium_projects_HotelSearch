@@ -475,3 +475,103 @@ JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scri
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
 1652791088702	Marionette	INFO	Stopped listening on port 61267
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652866392228	geckodriver	INFO	Listening on 127.0.0.1:53616
+1652866395287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilerr7mvL"
+1652866395746	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilerr7mvL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53617/devtools/browser/15394dfb-951c-4253-bded-0c7d66c18bbf
+1652866398047	Marionette	INFO	Listening on port 53640
+Read port: 53640
+1652866398167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652866400941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652866401891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652866406488	Marionette	INFO	Stopped listening on port 53640
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652866460279	geckodriver	INFO	Listening on 127.0.0.1:53680
+1652866463362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilebmJ7Xi"
+1652866463833	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilebmJ7Xi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53681/devtools/browser/28df79c4-7d1a-4dc4-896a-ac864c5bc026
+1652866465998	Marionette	INFO	Listening on port 53705
+Read port: 53705
+1652866466145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652866469012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652866470083	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652866470884	Marionette	INFO	Stopped listening on port 53705
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Temp\rust_mozprofilebmJ7Xi\protections.sqlite
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1652866807017	geckodriver	INFO	Listening on 127.0.0.1:53785
+1652866810065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileRGEVDK"
+1652866810492	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileRGEVDK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53786/devtools/browser/5c47b231-5d2f-4b6c-acaf-2d4bdfc5d98c
+1652866812475	Marionette	INFO	Listening on port 53809
+Read port: 53809
+1652866812538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652866816073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652866817084	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652866818848	Marionette	INFO	Stopped listening on port 53809
+1652868355509	geckodriver	INFO	Listening on 127.0.0.1:53940
+1652868358565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilekGdV9F"
+1652868358976	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilekGdV9F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53941/devtools/browser/3dec46e9-8e49-4aae-ad3a-0e80e7f14be6
+1652868361025	Marionette	INFO	Listening on port 53963
+Read port: 53963
+1652868361076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652868364481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652868365486	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652868368210	Marionette	INFO	Stopped listening on port 53963
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
