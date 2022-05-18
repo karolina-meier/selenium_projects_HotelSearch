@@ -115,3 +115,53 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1652860471689	geckodriver	INFO	Listening on 127.0.0.1:50474
+1652860474749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileIS7vA1"
+1652860475512	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileIS7vA1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50475/devtools/browser/0625860c-8268-4b34-84eb-b36f2770a51a
+1652860477934	Marionette	INFO	Listening on port 50501
+Read port: 50501
+1652860477984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652860480890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652860481918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652860483574	Marionette	INFO	Stopped listening on port 50501
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652860691193	geckodriver	INFO	Listening on 127.0.0.1:50645
+1652860694237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileZuX135"
+1652860694667	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileZuX135\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50646/devtools/browser/7f68e09c-dbdf-454e-9c55-65796afa60cb
+1652860696770	Marionette	INFO	Listening on port 50672
+Read port: 50672
+1652860696805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652860699614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652860700685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652860702259	Marionette	INFO	Stopped listening on port 50672
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

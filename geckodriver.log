@@ -1,0 +1,477 @@
+1651753051928	geckodriver	INFO	Listening on 127.0.0.1:52663
+1651753054993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52664" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilewtA9Az"
+1651753055460	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilewtA9Az\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52664/devtools/browser/74ec6acc-cf0f-4b4d-b309-ab6899b248cb
+1651753057747	Marionette	INFO	Listening on port 52672
+1651753058221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651753063604	Marionette	INFO	Stopped listening on port 52672
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652774007868	geckodriver	INFO	Listening on 127.0.0.1:53349
+1652774010929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileDFZ0qm"
+1652774011762	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileDFZ0qm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53350/devtools/browser/b7f40227-2814-4388-9300-0e359dda3919
+1652774014294	Marionette	INFO	Listening on port 53376
+Read port: 53376
+1652774014330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774017305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652774053487	Marionette	INFO	Stopped listening on port 53376
+1652774369114	geckodriver	INFO	Listening on 127.0.0.1:53619
+1652774372221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileNk6ZNR"
+1652774372787	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileNk6ZNR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53620/devtools/browser/ec019811-b769-44d4-9d0c-4312fcab8b7e
+1652774375381	Marionette	INFO	Listening on port 53646
+Read port: 53646
+1652774375459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774378766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652774386979	Marionette	INFO	Stopped listening on port 53646
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652774608654	geckodriver	INFO	Listening on 127.0.0.1:53810
+1652774611678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileh0URUy"
+1652774612102	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileh0URUy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53811/devtools/browser/8242488e-574f-4a53-8f51-0c7179e42a1b
+1652774614132	Marionette	INFO	Listening on port 53836
+Read port: 53836
+1652774614184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774617277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652774625440	Marionette	INFO	Stopped listening on port 53836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652774745760	geckodriver	INFO	Listening on 127.0.0.1:53946
+1652774748836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileeQnFwL"
+1652774749300	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileeQnFwL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53947/devtools/browser/22c352e4-91af-48bd-bf5c-02eccd01f387
+1652774751390	Marionette	INFO	Listening on port 53972
+Read port: 53972
+1652774751432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652774755070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652774756193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652774760168	Marionette	INFO	Stopped listening on port 53972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652775075153	geckodriver	INFO	Listening on 127.0.0.1:54154
+1652775078202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileuYiwxL"
+1652775078620	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileuYiwxL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54155/devtools/browser/5b3af579-71b2-4afc-9646-6e33e3a6e1eb
+1652775080691	Marionette	INFO	Listening on port 54180
+Read port: 54180
+1652775080720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652775084186	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775085247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775095131	Marionette	INFO	Stopped listening on port 54180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652775613094	geckodriver	INFO	Listening on 127.0.0.1:54463
+1652775616118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileyQ1X7Q"
+1652775616539	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileyQ1X7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54464/devtools/browser/08be55ae-3158-4e01-96a7-b856f282b599
+1652775618805	Marionette	INFO	Listening on port 54489
+Read port: 54489
+1652775618892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652775622280	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775623449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652775639422	Marionette	INFO	Stopped listening on port 54489
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652775738054	geckodriver	INFO	Listening on 127.0.0.1:54580
+1652775741097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile5QY37J"
+1652775741507	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile5QY37J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54581/devtools/browser/f4994a1c-e80f-47c3-97f7-3443349020c5
+1652775743513	Marionette	INFO	Listening on port 54609
+Read port: 54609
+1652775743590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652775746818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775747887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652776681759	Marionette	INFO	Stopped listening on port 54609
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+775834060	Marionette	INFO	Listening on port 54718
+Read port: 54718
+1652775834187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652775837061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775838075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652775852933	Marionette	INFO	Stopped listening on port 54718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652775950339	geckodriver	INFO	Listening on 127.0.0.1:54813
+1652775953407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileU7utpv"
+1652775955283	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileU7utpv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54814/devtools/browser/ee25155b-9641-4f03-add7-d1d11dda8879
+1652775959958	Marionette	INFO	Listening on port 54848
+Read port: 54848
+1652775960021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652775964328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652775965376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652775976137	Marionette	INFO	Stopped listening on port 54848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652775994812	geckodriver	INFO	Listening on 127.0.0.1:54895
+1652775997898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileOidfxp"
+1652775998343	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileOidfxp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54896/devtools/browser/3d0c822f-f517-41f7-b017-74bc365e7d00
+1652776000533	Marionette	INFO	Listening on port 54920
+Read port: 54920
+1652776000620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652776003821	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652776004814	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652776010950	Marionette	INFO	Stopped listening on port 54920
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652776410523	geckodriver	INFO	Listening on 127.0.0.1:55170
+1652776413577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGD0Uue"
+1652776413981	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGD0Uue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55171/devtools/browser/617a3f27-be71-4497-82e4-846adb9763ac
+1652776416134	Marionette	INFO	Listening on port 55199
+Read port: 55199
+1652776416173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652776419259	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652776420279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652776431799	Marionette	INFO	Stopped listening on port 55199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652776456083	geckodriver	INFO	Listening on 127.0.0.1:55256
+1652776459127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileRN14ab"
+1652776459538	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileRN14ab\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55257/devtools/browser/4d9a5af0-05f5-4836-bb96-5804829d5a3e
+1652776461529	Marionette	INFO	Listening on port 55282
+Read port: 55282
+1652776461576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652776464601	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652776465704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652776474079	Marionette	INFO	Stopped listening on port 55282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652776962144	geckodriver	INFO	Listening on 127.0.0.1:55622
+1652776965180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileuVHpyF"
+1652776965605	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileuVHpyF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55623/devtools/browser/d7e8fb81-d12b-4625-a178-d6ccbc2e44e2
+1652776967652	Marionette	INFO	Listening on port 55649
+Read port: 55649
+1652776967712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652776970878	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652776971924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652777068827	Marionette	INFO	Stopped listening on port 55649
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette" "--remote-debugging-port" "55726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileIo2tHu"
+1652777051334	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileIo2tHu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55726/devtools/browser/a79d03fe-c38f-4914-8400-f605d5d0704f
+1652777053420	Marionette	INFO	Listening on port 55751
+Read port: 55751
+1652777053483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652777056355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652777057368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+1652777065104	Marionette	INFO	Stopped listening on port 55751
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652777347289	geckodriver	INFO	Listening on 127.0.0.1:55940
+1652777350347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilepIlV0I"
+1652777350785	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilepIlV0I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55941/devtools/browser/72fc7c17-c373-4958-9b4f-b3c5b85b3e26
+1652777352769	Marionette	INFO	Listening on port 55973
+Read port: 55973
+1652777352860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652777355844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652777356870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652777363167	Marionette	INFO	Stopped listening on port 55973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652778087705	geckodriver	INFO	Listening on 127.0.0.1:56374
+1652778090768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilefU1Yvu"
+1652778091167	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilefU1Yvu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56375/devtools/browser/1d4bb5d8-d98b-48b0-873c-b8da23592de3
+1652778093318	Marionette	INFO	Listening on port 56401
+Read port: 56401
+1652778093408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778096307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652778097394	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+JavaScript error: http://www.kurs-selenium.pl/demo/hotels/search/italy/rome/01-01-2023/08-01-2023/3/1, line 786: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+JavaScript error: http://www.kurs-selenium.pl/demo/hotels/search/united-states/new-york/01-01-2023/08-01-2023/3/1, line 786: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+JavaScript error: http://www.kurs-selenium.pl/demo/hotels/search/germany/berlin/01-01-2023/08-01-2023/3/1, line 786: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+JavaScript error: http://www.kurs-selenium.pl/demo/hotels/search/france/paris/01-01-2023/08-01-2023/3/1, line 786: SyntaxError: expected expression, got ','
+1652778230754	Marionette	INFO	Stopped listening on port 56401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652778308913	geckodriver	INFO	Listening on 127.0.0.1:56552
+1652778311959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilelQKDw3"
+1652778312351	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilelQKDw3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56553/devtools/browser/02aff5ce-6594-4899-b001-69faa86ec5cb
+1652778314386	Marionette	INFO	Listening on port 56581
+Read port: 56581
+1652778314434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778317631	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652778318617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652778339205	Marionette	INFO	Stopped listening on port 56581
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652778879407	geckodriver	INFO	Listening on 127.0.0.1:56901
+1652778882451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileV108Ko"
+1652778882846	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileV108Ko\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56902/devtools/browser/083589e8-79e9-4d93-a8e8-4cb47d15b226
+1652778884887	Marionette	INFO	Listening on port 56928
+Read port: 56928
+1652778884930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652778887763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652778888809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652778904587	Marionette	INFO	Stopped listening on port 56928
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652780346959	geckodriver	INFO	Listening on 127.0.0.1:57874
+1652780350013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "57875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileb8bPQ7"
+1652780350446	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileb8bPQ7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57875/devtools/browser/949f217c-edbe-488e-a302-aa4bf8278c41
+1652780352561	Marionette	INFO	Listening on port 57900
+Read port: 57900
+1652780352641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652780356035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652780357012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652780358990	Marionette	INFO	Stopped listening on port 57900
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652791071139	geckodriver	INFO	Listening on 127.0.0.1:61242
+1652791074170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilemywEr9"
+1652791074905	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilemywEr9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61243/devtools/browser/e40f905a-2794-4504-b627-cce84ec39ade
+1652791077032	Marionette	INFO	Listening on port 61267
+Read port: 61267
+1652791077138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652791080262	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652791081287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652791088702	Marionette	INFO	Stopped listening on port 61267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
