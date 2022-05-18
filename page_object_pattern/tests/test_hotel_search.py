@@ -2,11 +2,10 @@ from page_object_pattern.pages.search_hotel import SearchHotelPage
 from page_object_pattern.pages.search_results import SearchResultsPage
 import allure
 import pytest
-from page_object_pattern.tests.base_test import BaseTest
 
 
 @pytest.mark.usefixtures("setup")
-class TestHotelSearch(BaseTest):
+class TestHotelSearch():
 
     @allure.title("Hotel search - test")
     @allure.description("Automation testing using Selenium with page object pattern")

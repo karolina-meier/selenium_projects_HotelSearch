@@ -266,3 +266,25 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1652871976456	geckodriver	INFO	Listening on 127.0.0.1:54379
+1652871979480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileqhAMoR"
+1652871979892	Marionette	INFO	Marionette enabled
+[fluent] Missing message in locale pl: menu-help-share-ideas
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileqhAMoR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54380/devtools/browser/e273fd3c-6c78-46b7-9c7d-f7c5400036b9
+1652871981868	Marionette	INFO	Listening on port 54403
+Read port: 54403
+1652871981918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652871984892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652871985954	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.kurs-selenium.pl/demo/themes/default/assets/js/scripts.js, line 234: TypeError: can't access property "top", $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.kurs-selenium.pl"
+1652871988602	Marionette	INFO	Stopped listening on port 54403
