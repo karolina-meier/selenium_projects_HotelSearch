@@ -2,6 +2,7 @@ from page_object_pattern.pages.search_hotel import SearchHotelPage
 from page_object_pattern.pages.search_results import SearchResultsPage
 import allure
 import pytest
+from page_object_pattern.utils.read_exel import ExcelReader
 
 
 @pytest.mark.usefixtures("setup")
@@ -9,11 +10,12 @@ class TestHotelSearch():
 
     @allure.title("Hotel search - test")
     @allure.description("Automation testing using Selenium with page object pattern")
-    def test_hotel_search(self, setup):
+    @pytest.mark.parametrize("data", ExcelReader.get_data())
+    def test_hotel_search(self, data):
         self.driver.get("http://www.kurs-selenium.pl/demo/")
         search_hotel_page = SearchHotelPage(self.driver)
         search_hotel_page.set_city("Dubai")
-        search_hotel_page.set_date_range('01/01/2023', '08/01/2023')
+        search_hotel_page.set_date_range(data.check_in, data.check_out)
         search_hotel_page.set_travellers('3', '1')
         search_hotel_page.perform_search()
         result_page = SearchResultsPage(self.driver)

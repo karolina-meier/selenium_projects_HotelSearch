@@ -6,7 +6,7 @@ from page_object_pattern.utils.driver_factory import DriverFactory
 
 @pytest.fixture()
 def setup(request):
-    driver = DriverFactory.get_driver("chrome")
+    driver = DriverFactory.get_driver("firefox")
     driver.implicitly_wait(10)
     request.cls.driver = driver
     before_failed = request.session.testsfailed
