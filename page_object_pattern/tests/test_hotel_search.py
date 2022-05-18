@@ -1,20 +1,12 @@
-from selenium import webdriver
 from page_object_pattern.pages.search_hotel import SearchHotelPage
 from page_object_pattern.pages.search_results import SearchResultsPage
-import pytest
-from selenium.webdriver.firefox.service import Service
-from webdriver_manager.firefox import GeckoDriverManager
 import allure
+import pytest
+from page_object_pattern.tests.base_test import BaseTest
 
-class TestHotelSearch:
 
-    @pytest.fixture()
-    def setup(self):
-        self.driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
-        self.driver.implicitly_wait(10)
-        self.driver.maximize_window()
-        yield
-        self.driver.quit()
+@pytest.mark.usefixtures("setup")
+class TestHotelSearch(BaseTest):
 
     @allure.title("Hotel search - test")
     @allure.description("Automation testing using Selenium with page object pattern")
