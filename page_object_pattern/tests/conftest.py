@@ -1,16 +1,13 @@
 import allure
 import pytest
 from allure_commons.types import AttachmentType
-from selenium import webdriver
-from selenium.webdriver.firefox.service import Service
-from webdriver_manager.firefox import GeckoDriverManager
+from page_object_pattern.utils.driver_factory import DriverFactory
 
 
 @pytest.fixture()
 def setup(request):
-    driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+    driver = DriverFactory.get_driver("chrome")
     driver.implicitly_wait(10)
-    driver.maximize_window()
     request.cls.driver = driver
     before_failed = request.session.testsfailed
     yield
