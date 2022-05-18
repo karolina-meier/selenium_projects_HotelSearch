@@ -19,6 +19,14 @@ class SearchHotelPage:
         self.driver.find_element(By.XPATH, SearchHotelLocators.location_match_xpath).click()
         allure.attach(self.driver.get_screenshot_as_png(), name="set_city", attachment_type=AttachmentType.PNG)
 
+    @allure.step("Setting city name to '{1}'")
+    def set_city2(self, city):
+        self.logger.info("Setting city {}".format(city))
+        self.driver.find_element(By.XPATH, SearchHotelLocators.search_hotel_span_xpath).click()
+        self.driver.find_element(By.XPATH, SearchHotelLocators.search_hotel_input_xpath).send_keys(city)
+        self.driver.find_element(By.XPATH, SearchHotelLocators.location_match_xpath2).click()
+        allure.attach(self.driver.get_screenshot_as_png(), name="set_city2", attachment_type=AttachmentType.PNG)
+
     @allure.step("Setting date range from '{1}' to '{2}'")
     def set_date_range(self, check_in, check_out):
         self.logger.info("Setting date range {} - {}".format(check_in, check_out))

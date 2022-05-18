@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current firefox version is 99.0
+[32mINFO    [0m WDM:logger.py:26 Get LATEST geckodriver version for 99.0 firefox
+[32mINFO    [0m WDM:logger.py:26 Getting latest mozilla release info for v0.31.0
+[32mINFO    [0m WDM:logger.py:26 Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+[32mINFO    [0m WDM:logger.py:26 Driver has been saved in cache [C:\Users\Kara\.wdm\drivers\geckodriver\win64\v0.31.0]
